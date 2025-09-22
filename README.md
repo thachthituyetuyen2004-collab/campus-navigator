@@ -1,1 +1,1 @@
-# campus-navigator
+# campus-navigator.github.io
